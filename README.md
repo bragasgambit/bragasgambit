@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently into CS50 course
 - 🐍 I'm learning python for ML applications
-- 🦀 I'm into rust for personal interest
+- 🦀 I'm into Rust for personal interest
 - 🐳 Interested in containerizations
 - 🧪 Chemist by formation
