@@ -10,7 +10,7 @@
 ### Interests
 | conda | Rust | docker | git |
 |----------|----------|----------|----------|
-|  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/anaconda.svg" title="anaconda"  alt="anaconda" width="55" height="55"/> |  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/cuddlyferris.svg" title="Rust"  alt="Rust" width="55" height="55"/> |  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/docker.svg" title="docker" alt="docker" width="55" height="55"/> |  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/git.svg" title="git" alt="git" width="50" height="50"/> |
+|  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/anaconda.svg" title="anaconda"  alt="anaconda" width="55" height="55"/> |  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/cuddlyferris.svg" title="Ferris"  alt="https://rustacean.net/" width="55" height="55"/> |  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/docker.svg" title="docker" alt="docker" width="55" height="55"/> |  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/git.svg" title="git" alt="git" width="50" height="50"/> |
 
 
 
