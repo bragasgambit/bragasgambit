@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🐳 Interested in containerizations
 - 🧪 Chemist by formation
 
-[![Yuri Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&theme=dark))
-<a href="https://github.com/bragasgambit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&layout=compact" /></a>
+![Yuri Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&theme=dark)
+<a href="https://github.com/bragasgambit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&layout=compact&theme=dark" /></a>
