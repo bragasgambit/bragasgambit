@@ -24,6 +24,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true"
   media="(prefers-color-scheme: light)"
 />
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true" />
 </picture>
 
@@ -37,6 +38,7 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true"
   media="(prefers-color-scheme: light)"
 />
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true" />
 </picture>
 
