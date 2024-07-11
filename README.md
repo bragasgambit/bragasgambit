@@ -24,7 +24,6 @@
   srcset="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true"
   media="(prefers-color-scheme: light)"
 />
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true" />
 </picture>
 
@@ -38,9 +37,14 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true"
   media="(prefers-color-scheme: light)"
 />
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true" />
 </picture>
 
 
-
+<picture align="center">
+  <source
+    media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="assets/github-snake.svg" />
+</picture>
