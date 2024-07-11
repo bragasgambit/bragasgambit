@@ -1,8 +1,8 @@
 ### Hello, I'm Yuri Braga 👋
 
-- 🌱 I’m currently into CS50 course
-- 🐍 I'm learning python for ML applications
-- 🦀 I'm into Rust for personal interest
+- 🌱 Currently into CS50 course
+- 🐍 Learning python for Data Science applications
+- 🦀 Into Rust for personal interest learning CS fundamentals
 - 🐳 Interested in containerizations
 - 🧪 Chemist by formation
 
