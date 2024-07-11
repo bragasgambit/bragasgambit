@@ -33,6 +33,20 @@ Here are some ideas to get you started:
 </picture>
 
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true"
+  media="(prefers-color-scheme: light)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true" />
+</picture>
+
+
+
 <a href="https://github.com/bragasgambit/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&layout=compact&theme=dark" />
 </a>
