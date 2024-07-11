@@ -8,9 +8,9 @@
 
 
 ### Interests
-| conda | Rust | docker |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
+| conda | Rust | docker | git |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/anaconda.svg" title="anaconda"  alt="anaconda" width="55" height="55"/> |  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/rust.svg" title="Rust"  alt="Rust" width="55" height="55"/> |  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/docker.svg" title="docker" alt="docker" width="55" height="55"/> |  <img src="https://github.com/bragasgambit/bragasgambit/blob/main/assets/git.svg" title="git" alt="git" width="55" height="55"/> |
 
 
 
