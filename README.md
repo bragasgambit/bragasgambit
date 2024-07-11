@@ -31,4 +31,13 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true" />
 </picture>
-<a href="https://github.com/bragasgambit/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&layout=compact&theme=dark" /></a>
+
+<a href="https://github.com/bragasgambit/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bragasgambit&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/bragasgambit/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bragasgambit&repo=convoychat" />
+</a>
+
+<a href="https://github.com/bragasgambit/github-readme-stats"><img align="center"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&layout=compact&theme=dark" /></a>
