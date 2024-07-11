@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🐳 Interested in containerizations
 - 🧪 Chemist by formation
 
+<!-- Status -->
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&theme=dark"
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true" />
 </picture>
 
-
+<!-- Top Langs -->
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&theme=dark"
@@ -47,6 +48,3 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/bragasgambit/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&layout=compact&theme=dark" />
-</a>
