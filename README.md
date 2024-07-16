@@ -34,14 +34,14 @@
 <!-- Top Langs -->
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&theme=dark&layout=compact"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&layout=compact"
   media="(prefers-color-scheme: light)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&layout=compact" />
 </picture>
 
 <!-- Snake grid -->
