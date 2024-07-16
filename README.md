@@ -10,11 +10,7 @@
 ### Interests
 | conda | Rust | docker | K8s | git |
 |----------|----------|----------|----------|----------|
-|  <img src="assets/anaconda.svg" title="anaconda"  alt="anaconda" href="https://www.anaconda.com/" width="55" height="55"/> 
-|  <img src="assets/cuddlyferris.svg" title="Ferris"  alt="Rust" href="https://www.rust-lang.org/" width="55" height="55"/> 
-|  <img src="assets/docker.svg" title="docker" alt="docker" href="https://www.docker.com/" width="55" height="55"/> 
-|  <img src="assets/K8s.svg" title="Kubernetes" alt="Kubernetes" href="https://kubernetes.io/" width="50" height="50"/> 
-|  <img src="assets/git.svg" title="git" alt="git" href="https://git-scm.com/" width="50" height="50"/> |
+|  <img src="assets/anaconda.svg" title="anaconda"  alt="anaconda" href="https://www.anaconda.com/" width="55" height="55"/> |  <img src="assets/cuddlyferris.svg" title="Ferris"  alt="Rust" href="https://www.rust-lang.org/" width="55" height="55"/> |  <img src="assets/docker.svg" title="docker" alt="docker" href="https://www.docker.com/" width="55" height="55"/> |  <img src="assets/K8s.svg" title="Kubernetes" alt="Kubernetes" href="https://kubernetes.io/" width="50" height="50"/> |  <img src="assets/git.svg" title="git" alt="git" href="https://git-scm.com/" width="50" height="50"/> |
 
 
 
