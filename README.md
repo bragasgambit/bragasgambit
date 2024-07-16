@@ -10,7 +10,7 @@
 ### Interests
 | JS | Python | Rust |
 |-----------|-----------|----------|
-| <a href="https://www.anaconda.com/" title="anaconda"><img src="assets/anaconda.svg" alt="anaconda" width="55" height="55"/></a> | <a href="https://www.python.org/" title="Python"><img src="assets/python.svg" alt="python snakes" /></a> |<a href="https://www.rust-lang.org/" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" width="55" height="55"/></a> |
+| <a href="https://www.anaconda.com/" title="anaconda"><img src="assets/anaconda.svg" alt="anaconda" width="55" height="55"/></a> | <a href="https://www.python.org/" title="Python"><img src="assets/python.svg" alt="python snakes" width="45" height="50"/></a> |<a href="https://www.rust-lang.org/" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" width="55" height="55"/></a> |
 
 | conda | VSCode | docker | K8s | git |
 |----------|----------|----------|----------|----------|
