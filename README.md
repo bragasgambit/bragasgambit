@@ -12,10 +12,13 @@
 |-----------|-----------|----------|
 | <a href="https://www.javascript.com/" title="JavaScript"><img src="assets/javascript.svg" alt="JavaScript" width="55" height="55"/></a> | <a href="https://www.python.org/" title="Python"><img src="assets/python.svg" alt="python snakes" width="50" height="60.57"/></a> |<a href="https://www.rust-lang.org/" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" width="60" height="60"/></a> |
 
-| conda | docker | git | K8s | npm | Polars | VSCode |
-|----------|----------|----------|----------|----------|----------|----------|
-| <a href="https://www.anaconda.com/" title="anaconda"><img src="assets/anaconda.svg" alt="anaconda" width="60" height="60"/></a> | <a href="https://www.docker.com/" title="docker"><img src="assets/docker.svg" alt="docker" width="60" height="60"/></a> | <a href="https://git-scm.com/" title="git"><img src="assets/git.svg" alt="git" width="60" height="60"/> </a> | <a href="https://kubernetes.io/" title="Kubernetes"><img src="assets/K8s.svg" alt="Kubernetes" width="60" height="60"/></a> |  <a href="https://www.npmjs.com/" title="npm"><img src="assets/npm.svg" alt="npm" width="60" height="60"/></a> | <a href="https://pola.rs/" title="Polars"><img src="assets/polars.svg" alt="Polars" width="65" height="65"/></a> | <a href="https://code.visualstudio.com/" title="VSCode"><img src="assets/vscode.svg" alt="VSCode" width="50" height="50"/></a> |
+| conda | docker | git | K8s |
+|----------|----------|----------|----------|
+| <a href="https://www.anaconda.com/" title="anaconda"><img src="assets/anaconda.svg" alt="anaconda" width="60" height="60"/></a> | <a href="https://www.docker.com/" title="docker"><img src="assets/docker.svg" alt="docker" width="60" height="60"/></a> | <a href="https://git-scm.com/" title="git"><img src="assets/git.svg" alt="git" width="60" height="60"/> </a> | <a href="https://kubernetes.io/" title="Kubernetes"><img src="assets/K8s.svg" alt="Kubernetes" width="60" height="60"/></a> |
 
+| npm | Polars | VSCode |
+|----------|----------|----------|
+|  <a href="https://www.npmjs.com/" title="npm"><img src="assets/npm.svg" alt="npm" width="60" height="60"/></a> | <a href="https://pola.rs/" title="Polars"><img src="assets/polars.svg" alt="Polars" width="65" height="65"/></a> | <a href="https://code.visualstudio.com/" title="VSCode"><img src="assets/vscode.svg" alt="VSCode" width="50" height="50"/></a> |
 
 
 <!-- Status -->
