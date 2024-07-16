@@ -10,7 +10,7 @@
 ### Interests
 | JS | Python | Rust |
 |-----------|-----------|----------|
-| <a href="https://www.javascript.com/" title="JavaScript"><img src="assets/javascript.svg" alt="JavaScript" width="58" height="58"/></a> | <a href="https://www.python.org/" title="Python"><img src="assets/python.svg" alt="python snakes" width="50" height="60.57"/></a> |<a href="https://www.rust-lang.org/" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" width="60" height="60"/></a> |
+| <a href="https://www.javascript.com/" title="JavaScript"><img src="assets/javascript.svg" alt="JavaScript" width="55" height="55"/></a> | <a href="https://www.python.org/" title="Python"><img src="assets/python.svg" alt="python snakes" width="50" height="60.57"/></a> |<a href="https://www.rust-lang.org/" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" width="60" height="60"/></a> |
 
 | conda | docker | git | K8s | npm | VSCode |
 |----------|----------|----------|----------|----------|----------|
