@@ -10,11 +10,11 @@
 ### Interests
 | JS | Python | Rust |
 |-----------|-----------|----------|
-| <a href="https://www.anaconda.com/" title="anaconda"><img src="assets/anaconda.svg" alt="anaconda" width="55" height="55"/></a> | <a href="https://www.python.org/" title="Python"><img src="assets/python.svg" alt="python snakes" width="50" height="55"/></a> |<a href="https://www.rust-lang.org/" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" width="55" height="55"/></a> |
+| <a href="https://www.javascript.com/" title="JavaScript"><img src="assets/javascript.svg" alt="JavaScript" width="58" height="58"/></a> | <a href="https://www.python.org/" title="Python"><img src="assets/python.svg" alt="python snakes" width="50" height="60.57"/></a> |<a href="https://www.rust-lang.org/" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" width="60" height="60"/></a> |
 
-| conda | VSCode | docker | K8s | git |
+| conda | docker | git | K8s | VSCode |
 |----------|----------|----------|----------|----------|
-| <a href="https://www.anaconda.com/" title="anaconda"><img src="assets/anaconda.svg" alt="anaconda" width="55" height="55"/></a> | <a href="https://www.rust-lang.org/" title="VSCode"><img src="assets/vscode.svg" alt="VSCode" width="45" height="45"/></a> | <a href="https://www.docker.com/" title="docker"><img src="assets/docker.svg" alt="docker" width="55" height="55"/></a> | <a href="https://kubernetes.io/" title="Kubernetes"><img src="assets/K8s.svg" alt="Kubernetes" width="50" height="50"/></a> | <a href="https://git-scm.com/" title="git"><img src="assets/git.svg" alt="git" width="50" height="50"/> </a> |
+| <a href="https://www.anaconda.com/" title="anaconda"><img src="assets/anaconda.svg" alt="anaconda" width="60" height="60"/></a> | <a href="https://www.docker.com/" title="docker"><img src="assets/docker.svg" alt="docker" width="60" height="60"/></a> | <a href="https://git-scm.com/" title="git"><img src="assets/git.svg" alt="git" width="60" height="60"/> </a> | <a href="https://kubernetes.io/" title="Kubernetes"><img src="assets/K8s.svg" alt="Kubernetes" width="60" height="58.22"/></a> |  <a href="https://code.visualstudio.com/" title="VSCode"><img src="assets/vscode.svg" alt="VSCode" width="50" height="50"/></a> |
 
 
 
