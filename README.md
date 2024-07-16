@@ -8,9 +8,13 @@
 
 
 ### Interests
+| JS | Python | Rust |
+|-----------|-----------|----------|
+| <a href="https://www.anaconda.com/" title="anaconda"><img src="assets/anaconda.svg" alt="anaconda" width="55" height="55"/></a> | <a href="https://www.rust-lang.org/" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" width="55" height="55"/></a> |<a href="https://www.rust-lang.org/" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" width="55" height="55"/></a> |
+
 | conda | Rust | docker | K8s | git |
 |----------|----------|----------|----------|----------|
-|  <a <img src="assets/anaconda.svg" title="anaconda"  alt="anaconda" href="https://www.anaconda.com/" width="55" height="55"/> /a> |  <img src="assets/cuddlyferris.svg" title="Ferris"  alt="Rust" href="https://www.rust-lang.org/" width="55" height="55"/> |  <img src="assets/docker.svg" title="docker" alt="docker" href="https://www.docker.com/" width="55" height="55"/> |  <img src="assets/K8s.svg" title="Kubernetes" alt="Kubernetes" href="https://kubernetes.io/" width="50" height="50"/> |  <img src="assets/git.svg" title="git" alt="git" href="https://git-scm.com/" width="50" height="50"/> |
+| <a href="https://www.anaconda.com/" title="anaconda"><img src="assets/anaconda.svg" alt="anaconda" width="55" height="55"/></a> | <a href="https://www.rust-lang.org/" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" width="55" height="55"/></a> | <a href="https://www.docker.com/" title="docker"><img src="assets/docker.svg" alt="docker" width="55" height="55"/></a> | <a href="https://kubernetes.io/" title="Kubernetes"><img src="assets/K8s.svg" alt="Kubernetes" width="50" height="50"/></a> | <a href="https://git-scm.com/" title="git"><img src="assets/git.svg" alt="git" width="50" height="50"/> </a> |
 
 
 
