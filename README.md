@@ -1,4 +1,4 @@
-### Hello, I'm Yuri Braga 👋
+<h3 align="center">Hello 👋</h3>
 
 - 🌱 Currently into CS50 course
 - 🐍 Learning python for Data Science applications
@@ -6,6 +6,7 @@
 - 🐳 Interested in containerizations
 - 🧪 Chemist by formation
 
+<h4 align="right">“<em>If you wish to make an apple pie from scratch, you must first invent the universe”</em><br>Carl Sagan</h4>
 
 ### Interests
 
@@ -36,7 +37,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true"
     media="(prefers-color-scheme: light)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&include_all_commits=true&count_private=true"/>
 </picture>
 <picture align="center">
   <source
@@ -45,7 +46,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&layout=compact"
     media="(prefers-color-scheme: light)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&layout=compact"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&layout=compact"/>
 </picture>
 
 <!-- Snake grid -->
