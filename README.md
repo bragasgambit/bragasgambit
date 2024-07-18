@@ -31,7 +31,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true"
     media="(prefers-color-scheme: light)"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&include_all_commits=true&count_private=true"/>
 </picture>
 <picture align="center">
   <source
@@ -40,7 +40,7 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&layout=compact"
     media="(prefers-color-scheme: light)"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&layout=compact"/>
 </picture>
 
 <!-- Snake grid -->
