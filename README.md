@@ -24,7 +24,7 @@
 &nbsp;
 
 <!-- Status -->
-<picture align="center">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
@@ -33,7 +33,10 @@
     media="(prefers-color-scheme: light)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&include_all_commits=true&count_private=true"/>
 </picture>
-<picture align="center">
+
+<!-- Top Langs -->
+
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&theme=dark&layout=compact"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
