@@ -4,7 +4,7 @@
 - 🐍 Learning python for Data Science applications
 - 🦀 Into Rust for personal interest learning CS fundamentals
 - 🐳 Interested in containerizations
-- 🧪 Chemist by formation
+- 🧪 BSc Chemistry - UnB & MSc Organic Chemistry - UNICAMP
 
 <h4 align="right">“<em>If you wish to make an apple pie from scratch, you must first invent the universe”</em><br>Carl Sagan</h4>
 
