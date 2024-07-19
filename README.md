@@ -1,9 +1,9 @@
 <h3 align="center">Hello 👋</h3>
 
 - 🌱 Currently into CS50 course
-- 🐍 Learning python for Data Science applications
+- 🐍 Learning Python for Data Science applications
 - 🦀 Into Rust for personal interest learning CS fundamentals
-- 🐳 Interested in containerizations
+- 🐳 Into Containerization & Orchestration  
 - 🧪 BSc Chemistry - UnB & MSc Organic Chemistry - UNICAMP
 
 <h4 align="right">“<em>If you wish to make an apple pie from scratch, you must first invent the universe”</em><br>Carl Sagan</h4>
