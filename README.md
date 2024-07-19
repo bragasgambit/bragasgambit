@@ -8,7 +8,7 @@
 
 <h4 align="right">“<em>If you wish to make an apple pie from scratch, you must first invent the universe”</em><br>Carl Sagan</h4>
 
-<h3>interests</h3>
+<h3>Interests</h3>
 
 <a href="https://www.javascript.com/" title="JavaScript"><img src="assets/javascript.svg" alt="JavaScript" width="40"/></a> &nbsp; &nbsp;
 <a href="https://www.python.org/" title="Python"><img src="assets/python.svg" alt="python snakes" width="40"/></a> &nbsp; &nbsp;
