@@ -10,21 +10,22 @@
 
 <h3>Interests</h3>
 
-<a title="C"><img src="assets/c.svg" alt="C lang" width="43"/></a> &nbsp; &nbsp;
-<a href="https://www.javascript.com/" target="_blank" title="JavaScript"><img src="assets/javascript.svg" alt="JavaScript" width="40"/></a> &nbsp; &nbsp;
-<a href="https://www.python.org/" target="_blank" title="Python"><img src="assets/python.svg" alt="python snakes" width="45"/></a> &nbsp; &nbsp;
-<a href="https://www.rust-lang.org/" target="_blank" title="Ferris"><img src="assets/cuddlyferris.svg" alt="Ferris" height="40"/></a> &nbsp; &nbsp;
-<a href="https://www.anaconda.com/" target="_blank" title="conda"><img src="assets/anaconda.svg" alt="anaconda" height="45"/></a> &nbsp; &nbsp;
-<a href="https://archlinux.org/" target="_blank" title='arch'><img src="assets/archlinux.svg" alt="Arch Linux" width="45"/></a> &nbsp; &nbsp;
-<a href="https://argoproj.github.io/" target="_blank" title="Argo"><img src="assets/argocd.svg" alt="Argo" width="45"/></a> &nbsp; &nbsp;
-<a href="hhttps://www.debian.org/" target="_blank" title="debian"><img src="assets/debian.svg" alt="debian" height="45"/></a> &nbsp; &nbsp;
-<a href="https://www.docker.com/" target="_blank" title="docker"><img src="assets/docker.svg" alt="docker" height="43"/></a> &nbsp; &nbsp;
-<a href="https://git-scm.com/" target="_blank" title="git"><img src="assets/git.svg" alt="git" width="44"/></a> &nbsp; &nbsp;
-<a href="https://kubernetes.io/" target="_blank" title="K8s"><img src="assets/K8s.svg" alt="Kubernetes" width="45"/></a> &nbsp; &nbsp;
-<a href="https://www.npmjs.com/" target="_blank" title="npm"><img src="assets/npm.svg" alt="npm" width="40"/></a> &nbsp; &nbsp;
-<a href="https://pola.rs/" target="_blank" title="Polars"><img src="assets/polars.svg" alt="Polars" height="40"/></a> &nbsp; &nbsp;
-<a href="https://www.postman.com/" target="_blank" title="Postman"><img src="assets/postman.svg" alt="Postman" height="45"/></a> &nbsp; &nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" title="VSCode"><img src="assets/vscode.svg" alt="VSCode" width="40"/></a>
+<a><img src="assets/c.svg" alt="C lang" width="43"/></a> &nbsp; &nbsp;
+<a href="https://www.javascript.com/" target="_blank"><img src="assets/javascript.svg" alt="JavaScript" width="40"/></a> &nbsp; &nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="assets/python.svg" alt="python snakes" width="45"/></a> &nbsp; &nbsp;
+<a href="https://www.rust-lang.org/" target="_blank"><img src="assets/cuddlyferris.svg" alt="Ferris" height="40"/></a> &nbsp; &nbsp;
+<a href="https://www.anaconda.com/" target="_blank"><img src="assets/anaconda.svg" alt="anaconda" height="45"/></a> &nbsp; &nbsp;
+<a href="https://archlinux.org/" target="_blank"><img src="assets/archlinux.svg" alt="Arch Linux" width="45"/></a> &nbsp; &nbsp;
+<a href="https://argoproj.github.io/" target="_blank"><img src="assets/argocd.svg" alt="Argo" width="45"/></a> &nbsp; &nbsp;
+<a href="https://www.debian.org/" target="_blank"><img src="assets/debian.svg" alt="debian" height="45"/></a> &nbsp; &nbsp;
+<a href="https://www.deno.com/" target="_blank"><img src="assets/deno.svg" alt="the deno mascot dinosaur standing in the rain" height="45"/></a> &nbsp; &nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="assets/docker.svg" alt="docker" height="43"/></a> &nbsp; &nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="assets/git.svg" alt="git" width="44"/></a> &nbsp; &nbsp;
+<a href="https://kubernetes.io/" target="_blank"><img src="assets/K8s.svg" alt="Kubernetes" width="45"/></a> &nbsp; &nbsp;
+<a href="https://www.npmjs.com/" target="_blank"><img src="assets/npm.svg" alt="npm" width="40"/></a> &nbsp; &nbsp;
+<a href="https://pola.rs/" target="_blank"><img src="assets/polars.svg" alt="Polars" height="40"/></a> &nbsp; &nbsp;
+<a href="https://www.postman.com/" target="_blank"><img src="assets/postman.svg" alt="Postman" height="45"/></a> &nbsp; &nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="assets/vscode.svg" alt="VSCode" width="40"/></a>
 
 &nbsp;
 
