@@ -11,7 +11,7 @@
 <h3>Interests</h3>
 
 <a title="C"><img src="assets/c.svg" alt="C lang" width="43"/></a> &nbsp; &nbsp;
-<a href="https://www.javascript.com/" title="JavaScript" target="_blank" rel="noopener noreferrer"><img src="assets/javascript.svg" alt="JavaScript" width="40"/></a> &nbsp; &nbsp;
+<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer" title="JavaScript"><img src="assets/javascript.svg" alt="JavaScript" width="40"/></a> &nbsp; &nbsp;
 <a href="https://www.python.org/" title="Python" target="_blank" rel="noopener noreferrer"><img src="assets/python.svg" alt="python snakes" width="45"/></a> &nbsp; &nbsp;
 <a href="https://www.rust-lang.org/" title="Ferris" target="_blank" rel="noopener noreferrer"><img src="assets/cuddlyferris.svg" alt="Ferris" height="40"/></a> &nbsp; &nbsp;
 <a href="https://www.anaconda.com/" title="conda" target="_blank" rel="noopener noreferrer"><img src="assets/anaconda.svg" alt="anaconda" height="45"/></a> &nbsp; &nbsp;
