@@ -8,6 +8,12 @@
 
 <h4 align="right">“<em>If you wish to make an apple pie from scratch, you must first invent the universe”</em><br>Carl Sagan</h4>
 
+<!-- Insert bash (.sh) in .md files
+```sh
+brew install deno
+```
+-->
+
 <h3>Interests</h3>
 
 <a><img src="assets/c.svg" alt="C lang" width="43"/></a> &nbsp; &nbsp;
