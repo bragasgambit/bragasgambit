@@ -35,7 +35,7 @@ brew install deno
 
 &nbsp;
 
-<!-- Status -->
+<!-- Status
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&theme=dark"
@@ -45,9 +45,9 @@ brew install deno
     media="(prefers-color-scheme: light)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bragasgambit&show_icons=true&include_all_commits=true&count_private=true"/>
 </picture>
+-->
 
-<!-- Top Langs -->
-
+<!-- Top Langs
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&theme=dark&layout=compact"
@@ -57,8 +57,8 @@ brew install deno
     media="(prefers-color-scheme: light)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bragasgambit&show_icons=true&layout=compact"/>
 </picture>
-
-<!-- Snake grid -->
+-->
+<!-- Snake grid
 <picture align="center">
   <source
     media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
@@ -66,3 +66,4 @@ brew install deno
     media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
 </picture>
+-->
