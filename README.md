@@ -1,8 +1,8 @@
 <h3 align="center">Hello 👋</h3>
 
 - 🌱 Currently into CS50 course
-- 🐍 Learning Python for Data Science applications
-- 🦀 Into Rust for personal interest learning CS fundamentals
+- 🐍 Into Python for Data Science
+- 🦀 Into Rust
 - 🐳 Into Containerization & Orchestration  
 - 🧪 BSc Chemistry - UnB & MSc Organic Chemistry - UNICAMP
 
