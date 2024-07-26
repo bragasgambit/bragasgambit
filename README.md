@@ -28,6 +28,7 @@ brew install deno
 <a href="https://www.docker.com/" target="_blank"><img src="assets/docker.svg" alt="docker" height="43"/></a> &nbsp; &nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="assets/git.svg" alt="git" width="44"/></a> &nbsp; &nbsp;
 <a href="https://kubernetes.io/" target="_blank"><img src="assets/K8s.svg" alt="Kubernetes" width="45"/></a> &nbsp; &nbsp;
+<a href="https://neovide.dev/" target="_blank"><img src="assets/neovide.png" alt="neovim meets rust" width="45"/></a> &nbsp; &nbsp;
 <a href="https://www.npmjs.com/" target="_blank"><img src="assets/npm.svg" alt="npm" width="40"/></a> &nbsp; &nbsp;
 <a href="https://pola.rs/" target="_blank"><img src="assets/polars.svg" alt="Polars" height="40"/></a> &nbsp; &nbsp;
 <a href="https://www.postman.com/" target="_blank"><img src="assets/postman.svg" alt="Postman" height="45"/></a> &nbsp; &nbsp;
