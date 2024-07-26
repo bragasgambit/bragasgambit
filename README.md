@@ -32,6 +32,7 @@ brew install deno
 <a href="https://www.npmjs.com/" target="_blank"><img src="assets/npm.svg" alt="npm" width="40"/></a> &nbsp; &nbsp;
 <a href="https://pola.rs/" target="_blank"><img src="assets/polars.svg" alt="Polars" height="40"/></a> &nbsp; &nbsp;
 <a href="https://www.postman.com/" target="_blank"><img src="assets/postman.svg" alt="Postman" height="45"/></a> &nbsp; &nbsp;
+<a href="https://swift.org/" target="_blank"><img src="assets/swift.svg" alt="swift" height="45"/></a> &nbsp; &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="assets/vscode.svg" alt="VSCode" width="40"/></a>
 
 &nbsp;
