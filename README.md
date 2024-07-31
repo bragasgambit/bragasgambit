@@ -34,7 +34,7 @@ brew install deno
 <a href="https://neovide.dev/" target="_blank"><img src="assets/neovide.png" alt="neovim meets rust" height="40"/></a> &nbsp; &nbsp;
 <a href="https://npmjs.com/" target="_blank"><img src="assets/npm.svg" alt="npm" width="40"/></a> &nbsp; &nbsp;
 <a href="https://obsidian.md/" target="_blank"><img src="assets/obsidian.svg" alt="obsidian" width="40"/></a> &nbsp; &nbsp;
-<a href="https://pola.rs/" target="_blank"><img src="assets/polars.svg" alt="Polars" height="40"/></a> &nbsp; &nbsp;
+<a href="https://pola.rs/" target="_blank"><img src="assets/polars.svg" alt="Polars" height="35"/></a> &nbsp; &nbsp;
 <a href="https://postman.com/" target="_blank"><img src="assets/postman.svg" alt="Postman" height="42"/></a> &nbsp; &nbsp;
 <a href="https://swift.org/" target="_blank"><img src="assets/swift.svg" alt="swift" height="40"/></a> &nbsp; &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="assets/vscode.svg" alt="VSCode" height="40"/></a> &nbsp; &nbsp;
