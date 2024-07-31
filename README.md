@@ -38,7 +38,7 @@ brew install deno
 <a href="https://postman.com/" target="_blank"><img src="assets/postman.svg" alt="Postman" height="42"/></a> &nbsp; &nbsp;
 <a href="https://swift.org/" target="_blank"><img src="assets/swift.svg" alt="swift" height="40"/></a> &nbsp; &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="assets/vscode.svg" alt="VSCode" height="40"/></a> &nbsp; &nbsp;
-<a href="https://warp.dev/" target="_blank"><img src="assets/warp.svg" alt="Warp" height="38"/></a>
+<a href="https://warp.dev/" target="_blank"><img src="assets/warp.svg" alt="Warp" height="35"/></a>
 
 &nbsp;
 
