@@ -22,7 +22,7 @@ brew install deno
 <a href="https://rust-lang.org/" target="_blank"><img src="assets/cuddlyferris.svg" alt="Ferris" height="38"/></a> &nbsp; &nbsp;
 <a href="https://anaconda.com/" target="_blank"><img src="assets/anaconda.svg" alt="anaconda" height="42"/></a> &nbsp; &nbsp;
 <a href="https://archlinux.org/" target="_blank"><img src="assets/archlinux.svg" alt="Arch Linux" height="42"/></a> &nbsp; &nbsp;
-<a href="https://argoproj.github.io/" target="_blank"><img src="assets/argocd.svg" alt="Argo" height="40"/></a> &nbsp; &nbsp;
+<a href="https://argoproj.github.io/" target="_blank"><img src="assets/argocd.svg" alt="Argo" height="42"/></a> &nbsp; &nbsp;
 <a href="https://bitwarden.com/" target="_blank"><img src="assets/bitwarden.svg" alt="bitwarden" height="40"/></a> &nbsp; &nbsp;
 <a href="https://debian.org/" target="_blank"><img src="assets/debian.svg" alt="debian" height="42"/></a> &nbsp; &nbsp;
 <a href="https://deno.com/" target="_blank"><img src="assets/deno.svg" alt="the deno mascot dinosaur standing in the rain" height="42"/></a> &nbsp; &nbsp;
