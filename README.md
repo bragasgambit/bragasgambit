@@ -34,7 +34,8 @@ brew install deno
 <a href="https://postman.com/" target="_blank"><img src="assets/postman.svg" alt="Postman" height="42"/></a> &nbsp; &nbsp;
 <a href="https://python.org/" target="_blank"><img src="assets/python.svg" alt="python snakes" height="42"/></a> &nbsp; &nbsp;
 <a href="https://rust-lang.org/" target="_blank"><img src="assets/cuddlyferris.svg" alt="Ferris" height="38"/></a> &nbsp; &nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img src="assets/vscode.svg" alt="VSCode" height="40"/></a> &nbsp; &nbsp;
+<a href="https://vscodium.com/" target="_blank"><img src="assets/codium.svg" alt="VSCodium" height="40"/></a> &nbsp; &nbsp;
+<a href="https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html" target="_blank"><img src="assets/corro.svg" alt="Corro the unsafe sea urchin" height="46"/></a> &nbsp; &nbsp;
 <a href="https://warp.dev/" target="_blank"><img src="assets/warp.svg" alt="Warp" height="35"/></a>
 
 &nbsp;
