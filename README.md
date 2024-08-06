@@ -19,7 +19,7 @@ brew install deno
 <a href="https://arc.net/" target="_blank"><img src="assets/arc.svg" alt="Arc Browser" height="40"/></a> &nbsp; &nbsp;
 <a href="https://archlinux.org/" target="_blank"><img src="assets/archlinux.svg" alt="Arch Linux" height="42"/></a> &nbsp; &nbsp;
 <a href="https://argoproj.github.io/" target="_blank"><img src="assets/argocd.svg" alt="Argo" height="42"/></a> &nbsp; &nbsp;
-<a href="https://aws.amazon.com/" target="_blank"><img src="assets/aws.svg" alt="Amazon Web Services" height="45"/></a> &nbsp; &nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img src="assets/aws.svg" alt="Amazon Web Services" height="35"/></a> &nbsp; &nbsp;
 <a><img src="assets/c.svg" alt="C lang" height="40"/></a> &nbsp; &nbsp;
 <a href="https://debian.org/" target="_blank"><img src="assets/debian.svg" alt="debian" height="42"/></a> &nbsp; &nbsp;
 <a href="https://deno.com/" target="_blank"><img src="assets/deno.svg" alt="the deno mascot dinosaur standing in the rain" height="42"/></a> &nbsp; &nbsp;
