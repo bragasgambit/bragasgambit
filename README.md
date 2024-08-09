@@ -34,7 +34,8 @@ brew install deno
 <a href="https://javascript.com/" target="_blank"><img src="assets/javascript.svg" alt="JavaScript" height="38"/></a> &nbsp; &nbsp;
 <a href="https://kubernetes.io/" target="_blank"><img src="assets/K8s.svg" alt="Kubernetes" height="40"/></a> &nbsp; &nbsp;
 <a href="https://neovide.dev/" target="_blank"><img src="assets/neovide.png" alt="neovim meets rust" height="40"/></a> &nbsp; &nbsp;
-<a href="https://obsidian.md/" target="_blank"><img src="assets/obsidian.svg" alt="obsidian" width="40"/></a> &nbsp; &nbsp;
+<a href="https://obsidian.md/" target="_blank"><img src="assets/obsidian.svg" alt="obsidian" height="40"/></a> &nbsp; &nbsp;
+<a href="https://ollama.com/" target="_blank"><img src="assets/ollama.svg" alt="ollama Open Source LLM" height="40"/></a> &nbsp; &nbsp;
 <a href="https://pkl-lang.org/" target="_blank"><img src="assets/Pkl.svg" alt="Pkl" height="38"/></a> &nbsp; &nbsp;
 <a href="https://pola.rs/" target="_blank"><img src="assets/polars.svg" alt="Polars" height="38"/></a> &nbsp; &nbsp;
 <a href="https://postman.com/" target="_blank"><img src="assets/postman.svg" alt="Postman" height="42"/></a> &nbsp; &nbsp;
